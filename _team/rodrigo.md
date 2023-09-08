@@ -8,6 +8,6 @@ promoted: true
 weight: 1
 ---
 
-Acquire the necessary skills to improve the quality life of society, always learn and 
-improve my knowledge in the field of software engineering and achieve my personal 
-success considering the ethics that guide my actions.
+Acquire the necessary skills to improve the quality life of society, always learn 
+and improve my knowledge in the field of software engineering and achieve my 
+personal success considering the ethics that guide my actions.
